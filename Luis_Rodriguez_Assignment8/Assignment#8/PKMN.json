@@ -1,0 +1,53 @@
+{
+    "cast" :[
+        {
+            "FirstName" : "Henry",
+            "LastName" :" Stanton",
+            "Age":"22",
+            "Partner":"Sylvester",
+            "ShowName":"Mewtwo"
+        },
+        {
+            "FirstName" : "Neeman",
+            "LastName" :"sus",
+            "Age":"31",
+            "Partner":"Taking",
+            "ShowName":"Giovanni"
+        },
+        {
+            "FirstName" : "Xise",
+            "LastName" :"Red",
+            "Age":"19",
+            "Partner":"Eluded",
+            "ShowName":"Xise"
+        },
+        {
+            "FirstName" : "Rocket",
+            "LastName" :"Smithoness",
+            "Age":"32",
+            "Partner":"Giovanni",
+            "ShowName":"Team Rocket"
+        },
+        {
+            "FirstName" : "Gym",
+            "LastName" :"Leaders",
+            "Age":"67",
+            "Partner":"badges",
+            "ShowName":"elemental"
+        },
+        {
+            "FirstName" : "Peter",
+            "LastName" :"Dinklage",
+            "Age":"53",
+            "Partner":"Erica Schmidt",
+            "ShowName":"Tyrion Lannister"
+        },
+        {
+            "FirstName" : "Nathalie",
+            "LastName" :"Emmanuel",
+            "Age":"33",
+            "Partner":"Alex Lanipekun",
+            "ShowName":"Missandei"
+        }
+    ]
+}
